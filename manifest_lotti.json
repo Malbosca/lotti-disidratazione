@@ -1,0 +1,24 @@
+{
+  "name": "Lotti Malbosca",
+  "short_name": "Lotti",
+  "description": "Visualizzatore Lotti Disidratazione Malbosca",
+  "start_url": "/lotti-viewer/",
+  "display": "standalone",
+  "background_color": "#f5f5f5",
+  "theme_color": "#E07B00",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
